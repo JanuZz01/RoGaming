@@ -1,3 +1,2 @@
-What is up
-
-# THIS IS A COOL BOT FOR DISCORD WITH DISCORD.PY LIV
+# RoGaming
+## A discord bot for the RoGaming community
