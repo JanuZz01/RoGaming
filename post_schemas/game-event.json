@@ -1,0 +1,10 @@
+{
+    "Title":"Game invite",
+    "Description":"The schema for creating a game embed fx. What is the name of your game? When? What will you pay? and so on",
+    "Questions":[
+        {"Question":"What game would you like to meet up in?", "Name":"Game","Format":"Text"},
+        {"Question":"When will you meet up?","Name":"Date","Format":"Text", "Example":"HH:MM (24 hour clock) DD/MM"},
+        {"Question":"How many robux will you reward attendees?","Name":"Reward", "Format":"Date", "Example":"10 ( 0 for none )"},
+        {"Question":"What is you roblox username?", "Name":"Username","Format":"Number", "Example":"JanuZz011"}
+    ]
+}

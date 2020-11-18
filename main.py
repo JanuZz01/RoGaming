@@ -3,7 +3,7 @@ from discord.ext import commands
 from secrets import *
 import os
 
-client = commands.Bot(command_prefix=c_settings.PREFIX)
+client = commands.Bot(command_prefix=PREFIX)
 
 commands = discord
 
@@ -12,4 +12,4 @@ for file in os.listdir("./Commands"):
         print(f"Loaded : {file[:-3]} command(s)/event(s)")
         client.load_extension(f"Commands.{file[:-3]}")
 
-client.run(c_settings.TOKEN)
+client.run(TOKEN)
