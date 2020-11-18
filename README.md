@@ -1,1 +1,3 @@
-# RoGaming
+What is up
+
+# THIS IS A COOL BOT FOR DISCORD WITH DISCORD.PY LIV
