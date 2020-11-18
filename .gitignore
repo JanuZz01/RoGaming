@@ -1,3 +1,5 @@
 secrets.py
+command_template.py
+
 /__pycache__
 /Commands/__pycache__
